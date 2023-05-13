@@ -1,0 +1,32 @@
+Language Translator
+
+Add Translation
+Translate Text
+Exit
+Enter your choice: 1
+Enter source language: English
+Enter target language: French
+Translation added successfully.
+Language Translator
+
+Add Translation
+Translate Text
+Exit
+Enter your choice: 2
+Enter text to translate: English
+Translated Text: French
+Language Translator
+
+Add Translation
+Translate Text
+Exit
+Enter your choice: 2
+Enter text to translate: Spanish
+Translated Text: Translation not found.
+Language Translator
+
+Add Translation
+Translate Text
+Exit
+Enter your choice: 0
+Exiting program. Goodbye!
